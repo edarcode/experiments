@@ -1,6 +1,6 @@
 .App {
 	display: flex;
-	overflow: scroll scroll;
+	overflow: auto auto;
 	scroll-snap-type: mandatory;
 	width: 1000px;
 }
